@@ -1,0 +1,23 @@
+{
+  "appConfig": {
+    "language": "ru",
+    "autoFreezeTimer": 10,
+    "taskPushTimer": 5,
+    "reminder": 30,
+    "showNotifications": true,
+    "shortcuts": {
+      "shortcuts": {
+        "InvokeMainList": [
+          56,
+          88,
+          29
+        ],
+        "StopTime": [
+          68,
+          56,
+          29
+        ]
+      }
+    }
+  }
+}
